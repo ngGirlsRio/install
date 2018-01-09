@@ -31,7 +31,7 @@ Se optar por usar o VSCode, recomendamos instalar os seguintes Plugins para Angu
 ### Git
 O Git é uma ferramenta que ajuda a gerenciar versões do seu código e trabalhar de forma colaborativa com outros membros da equipe. Existe muita coisa para se aprender sobre Git, porém, neste tutorial vamos abordar apenas o uso básico.
 
-Você pode baixár o Git e seguir as instruções de instalação clicando aqui. Quando o assitente de instalação perguntar se você gostaria de instalar o git bash, escolha sim.
+Você pode baixar o Git e seguir as instruções de instalação clicando aqui. Quando o assitente de instalação perguntar se você gostaria de instalar o git bash, escolha sim.
 
 ### Github
 Github é um site de repositórios de código, que se integra com o Git. Permite publicar seu projeto na Web, copiar outros projetos de código aberto e colaborar. Para poder publicar seu projeto, certifique-se de criar um usuário no site do Github (gratuitamente, é claro).
@@ -82,10 +82,11 @@ Uma vez dentro do diretório do aplicativo, execute o aplicativo usando o seguin
 
 `ng serve -o`
 
-O sinalizador (flag) -o é uma abreviação para --open, que abrirá seu navegador na URL: [localhost: 4200] (http: // localhost: 4200).
+O sinalizador (flag) -o é uma abreviação para --open, que abrirá seu navegador na URL: http://localhost:4200.
 
 Parabéns! :smiley:
-Você tem uma aplicação angular em execução! Enquanto você estiver trabalhando no aplicativo, você deve manter o terminal aberto executando o comando anterior. Qualquer alteração que você fizer no código do projeto será refletida imediatamente no navegador. Você pode abrir outro terminal para executar tarefas em paralelo.+
 
-Para parar o comando em execução no terminal, pressione Ctrl + C no terminal ou feche o terminal.
+Você tem uma aplicação angular em execução! Enquanto você estiver trabalhando no aplicativo, você deve manter o terminal aberto executando o comando anterior. Qualquer alteração que você fizer no código do projeto será refletida imediatamente no navegador. Você pode abrir outro terminal para executar tarefas em paralelo.
+
+Para parar o comando em execução no terminal, pressione `Ctrl + C` no terminal ou feche o terminal.
 Agora estamos prontas para começar a desenvolver!
